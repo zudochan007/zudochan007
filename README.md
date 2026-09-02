@@ -21,7 +21,7 @@
 
 <br><br>
 
-> 💡 *"Keep learning. Keep building. Keep creating."*
+> 💡 _"Keep learning. Keep building. Keep creating."_
 
 </div>
 
@@ -31,14 +31,14 @@
 
 ### ⚡ Developer Profile Matrix
 
-| Domain | Technical Stack & Capabilities |
-| :--- | :--- |
-| **🌐 Web Core** | `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` |
-| **🎨 UI & Styling** | `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
-| **⚙️ Backend** | `Node.js` `Express` `.NET Core` `C#` `RESTful APIs` |
-| **🗄️ Database** | `PostgreSQL` `MySQL` `SQLite` |
-| **🤖 AI & Integrations** | `Google Gemini API` `AI Agents` `LLM Integration` |
-| **🔧 Tools & DevOps** | `Git` `GitHub` `Docker` `VS Code` `Vercel` `Linux` |
+| Domain                   | Technical Stack & Capabilities                             |
+| :----------------------- | :--------------------------------------------------------- |
+| **🌐 Web Core**          | `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` |
+| **🎨 UI & Styling**      | `Tailwind CSS` `Bootstrap` `Responsive UI/UX`              |
+| **⚙️ Backend**           | `Node.js` `Express` `.NET Core` `C#` `RESTful APIs`        |
+| **🗄️ Database**          | `PostgreSQL` `MySQL` `SQLite`                              |
+| **🤖 AI & Integrations** | `Google Gemini API` `AI Agents` `LLM Integration`          |
+| **🔧 Tools & DevOps**    | `Git` `GitHub` `Docker` `VS Code` `Vercel` `Linux`         |
 
 </div>
 
@@ -82,27 +82,41 @@
 
 <div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,js,ts,html,css,sql&theme=dark" alt="Languages"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Languages%3A+Java+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+JS+%E2%80%A2+TS+%E2%80%A2+SQL;Frontend%3A+React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+Vite;Backend%3A+Node.js+%E2%80%A2+Express+%E2%80%A2+.NET+%E2%80%A2+PostgreSQL;AI+%26+Tools%3A+Gemini+API+%E2%80%A2+Git+%E2%80%A2+Docker+%E2%80%A2+Linux" alt="Tech Stack Motion" />
+</a>
 
 <br><br>
 
-### ⚛️ Frontend
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js,ts,html,css,sql&theme=dark" alt="Languages"/>
+</a>
+
+<br><br>
+
+### ⚛️ Frontend & UI Ecosystem
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+</a>
 
 <br><br>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,mysql,postgres,sqlite&theme=dark" alt="Backend"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,mysql,postgres,sqlite&theme=dark" alt="Backend"/>
+</a>
 
 <br><br>
 
 ### 🔧 Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,vercel&theme=dark" alt="Tools"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,vercel&theme=dark" alt="Tools"/>
+</a>
 
 </div>
 
@@ -117,11 +131,11 @@
 
 ### 🤖 AI Development
 
-- 🤖 **AI Mock Interview** — *Interactive AI interview platform*
-- 💬 **AI Chatbot** — *Smart conversational assistant*
-- 🧠 **AI Analysis** — *Data processing & smart insights*
-- ✨ **Gemini Integration** — *Google Gemini API features*
-- 🔗 **AI APIs** — *Custom RESTful AI endpoints*
+- 🤖 **AI Mock Interview** — _Interactive AI interview platform_
+- 💬 **AI Chatbot** — _Smart conversational assistant_
+- 🧠 **AI Analysis** — _Data processing & smart insights_
+- ✨ **Gemini Integration** — _Google Gemini API features_
+- 🔗 **AI APIs** — _Custom RESTful AI endpoints_
 
 </td>
 
@@ -129,11 +143,11 @@
 
 ### 🌐 Web Development
 
-- ⚛️ **React** — *Modern single page web apps*
-- ▲ **Next.js** — *Server-side rendering & SSG*
-- 🎨 **Tailwind CSS** — *Responsive modern design*
-- ⚙️ **REST API** — *Scalable backend services*
-- 📱 **Responsive UI** — *Cross-device layout optimization*
+- ⚛️ **React** — _Modern single page web apps_
+- ▲ **Next.js** — _Server-side rendering & SSG_
+- 🎨 **Tailwind CSS** — _Responsive modern design_
+- ⚙️ **REST API** — _Scalable backend services_
+- 📱 **Responsive UI** — _Cross-device layout optimization_
 
 </td>
 
@@ -211,14 +225,14 @@ STATUS   : ONLINE
 
 <div align="center">
 
-| Goal | Status |
-|:---|:---:|
+| Goal                              |                                           Status                                           |
+| :-------------------------------- | :----------------------------------------------------------------------------------------: |
 | 🚀 Improve Full-Stack Development | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
-| ⚛️ Master React & Next.js | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
-| 🤖 Build AI Applications | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
-| 🧠 Learn Software Architecture | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
-| ☁️ Improve Cloud & Deployment | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
-| 💡 Build Open Source Projects | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| ⚛️ Master React & Next.js         | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| 🤖 Build AI Applications          | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| 🧠 Learn Software Architecture    | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| ☁️ Improve Cloud & Deployment     | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| 💡 Build Open Source Projects     | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
 
 </div>
 
@@ -235,7 +249,7 @@ STATUS   : ONLINE
 <br><br>
 
 > ⚡ **BUILD • CREATE • LEARN • REPEAT** ⚡  
-> *Thanks for visiting my profile!*
+> _Thanks for visiting my profile!_
 
 <br>
 
