@@ -83,7 +83,7 @@
 <div align="center">
 
 <!-- Dynamic Infinite Scrolling Tech Icons Marquee -->
-<img width="100%" src="https://raw.githubusercontent.com/zudochan007/zudochan007/main/tech_stack_marquee.svg" alt="Animated Tech Stack Marquee" />
+<img width="100%" src="./tech_stack_marquee.svg" alt="Animated Tech Stack Marquee" />
 
 <br><br>
 
