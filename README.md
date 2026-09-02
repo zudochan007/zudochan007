@@ -193,25 +193,34 @@
 
 # 💻 Terminal
 
+<table>
+<tr>
+<td>
+
+🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp; **zsh — zudochan007@dev-terminal:~**
+
 ```bash
-# zudochan007 @ github profile environment
-$ ./profile.sh --init
+zudochan007@github-environment:~$ ./profile.sh --init
 
 [✓] Initializing developer profile...
-[✓] Loading skills................. OK
-[✓] Loading projects............... OK
-[✓] Loading creativity............. OK
-[✓] Connecting to GitHub........... OK
+[✓] Loading skills & tech stack......... OK [100%]
+[✓] Loading projects & repositories..... OK [100%]
+[✓] Loading creativity & passion........ OK [100%]
+[✓] Connecting to GitHub API............ OK [ONLINE]
 
-USER     : zudochan007
-ROLE     : Software Engineering Student
-FOCUS    : Web / AI / Software Architecture
-STATUS   : ONLINE
+┌──────────────────────────────────────────────────────────┐
+│ USER    : zudochan007                                    │
+│ ROLE    : Software Engineering Student & Full-Stack Dev  │
+│ FOCUS   : Web Apps • AI Engineering • Software Design    │
+│ STATUS  : ONLINE & READY TO BUILD                        │
+└──────────────────────────────────────────────────────────┘
 
-> Keep learning.
-> Keep building.
-> Keep creating.
+> "Keep learning. Keep building. Keep creating."
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
