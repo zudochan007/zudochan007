@@ -82,11 +82,6 @@
 
 <div align="center">
 
-<!-- Dynamic Infinite Scrolling Tech Icons Marquee -->
-<img width="100%" src="./tech_stack_marquee.svg" alt="Animated Tech Stack Marquee" />
-
-<br><br>
-
 ### 💻 Languages
 
 <a href="https://skillicons.dev">
