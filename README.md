@@ -4,9 +4,15 @@
 <!--                    ZUDOCHAN007 PROFILE                    -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06141f,50:0b2533,100:123b4a&text=ZUDOCHAN007&fontSize=56&fontColor=5eead4&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" alt="Zudochan007"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06141f,50:0b2533,100:123b4a&text=ZUDOCHAN007&fontSize=56&fontColor=5eead4&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" alt="Zudochan007 Header"/>
 
 <br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+%26+AI+Developer;Building+the+Future+with+Code;Keep+learning.+Keep+building." alt="Typing SVG" />
+</a>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Software Engineering"/>
 <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Web Development"/>
@@ -22,21 +28,13 @@
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    ZUDOCHAN007 // SYSTEM ONLINE                            ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   > USER       : @zudochan007                                                ║
-║   > ROLE       : SOFTWARE ENGINEERING STUDENT                               ║
-║   > FOCUS      : WEB / AI / FULL-STACK                                      ║
-║   > LOCATION   : VIETNAM 🇻🇳                                                ║
-║   > STATUS     : ● ONLINE                                                   ║
-║                                                                              ║
-║   $ echo "Keep learning. Keep building. Keep creating."                     ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E676?style=for-the-badge&logo=github&logoColor=black" alt="System Online"/>
+<img src="https://img.shields.io/badge/LOCATION-VIETNAM%20%F0%9F%87%B6%F0%9F%87%B3-0D1117?style=for-the-badge&logoColor=white" alt="Vietnam"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20AI%20%7C%20FULLSTACK-0D1117?style=for-the-badge&logo=codeforces&logoColor=5EEAD4" alt="Focus"/>
+
+<br><br>
+
+> 💡 *"Keep learning. Keep building. Keep creating."*
 
 </div>
 
@@ -50,21 +48,12 @@
 
 ### 🧑‍💻 Developer Profile
 
-```text
-┌───────────────────────────────┐
-│       ZUDOCHAN007             │
-├───────────────────────────────┤
-│                               │
-│  Software Engineering Student │
-│                               │
-│  🌐 Web Development           │
-│  🤖 Artificial Intelligence   │
-│  ⚛️ React / JavaScript        │
-│  ⚙️ .NET / Backend            │
-│  🗄️ Database                  │
-│                               │
-└───────────────────────────────┘
-```
+- 🎓 **Role:** Software Engineering Student
+- 🌐 **Specialization:** Web & AI Development
+- ⚛️ **Frontend:** React / JavaScript / Next.js
+- ⚙️ **Backend:** Node.js / .NET / REST API
+- 🗄️ **Database:** SQL / PostgreSQL / MySQL
+- 📍 **Location:** Vietnam 🇻🇳
 
 </td>
 
@@ -72,20 +61,12 @@
 
 ### ⚡ Current Mission
 
-```text
-┌───────────────────────────────┐
-│       SYSTEM PROGRESS         │
-├───────────────────────────────┤
-│                               │
-│  Learn       █████████░  90%  │
-│  Build       ████████░░  80%  │
-│  AI          ███████░░░  70%  │
-│  Full-Stack  ███████░░░  70%  │
-│                               │
-│  STATUS: ONLINE               │
-│                               │
-└───────────────────────────────┘
-```
+- 📖 **Learning & Growth:** `█████████░` **90%**
+- 🛠️ **Software Building:** `████████░░` **80%**
+- 🤖 **AI Engineering:** `███████░░░` **70%**
+- 🚀 **Full-Stack Projects:** `███████░░░` **70%**
+
+> 🟢 **STATUS:** `ONLINE & ACTIVE`
 
 </td>
 </tr>
@@ -130,41 +111,25 @@
 
 <td width="50%" valign="top">
 
-## 🤖 AI Development
+### 🤖 AI Development
 
-```text
-┌─────────────────────────────┐
-│        AI PROJECTS          │
-├─────────────────────────────┤
-│                             │
-│  🤖 AI Mock Interview       │
-│  💬 AI Chatbot              │
-│  🧠 AI Analysis             │
-│  ✨ Gemini Integration      │
-│  🔗 AI APIs                 │
-│                             │
-└─────────────────────────────┘
-```
+- 🤖 **AI Mock Interview** — *Interactive AI interview platform*
+- 💬 **AI Chatbot** — *Smart conversational assistant*
+- 🧠 **AI Analysis** — *Data processing & smart insights*
+- ✨ **Gemini Integration** — *Google Gemini API features*
+- 🔗 **AI APIs** — *Custom RESTful AI endpoints*
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌐 Web Development
+### 🌐 Web Development
 
-```text
-┌─────────────────────────────┐
-│        WEB PROJECTS         │
-├─────────────────────────────┤
-│                             │
-│  ⚛️ React                   │
-│  ▲ Next.js                  │
-│  🎨 Tailwind CSS            │
-│  ⚙️ REST API                │
-│  📱 Responsive UI           │
-│                             │
-└─────────────────────────────┘
-```
+- ⚛️ **React** — *Modern single page web apps*
+- ▲ **Next.js** — *Server-side rendering & SSG*
+- 🎨 **Tailwind CSS** — *Responsive modern design*
+- ⚙️ **REST API** — *Scalable backend services*
+- 📱 **Responsive UI** — *Cross-device layout optimization*
 
 </td>
 
@@ -177,9 +142,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zudochan007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=5EEAD4&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zudochan007&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-extended.vercel.app/api?username=zudochan007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=5EEAD4&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=zudochan007&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
@@ -199,7 +163,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zudochan007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophies.vercel.app/?username=zudochan007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -209,7 +173,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zudochan007&bg_color=0D1117&color=5EEAD4&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-activity-graph.vercel.app/graph?username=zudochan007&bg_color=0D1117&color=5EEAD4&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -217,34 +181,25 @@
 
 # 💻 Terminal
 
-<div align="center">
+```bash
+# zudochan007 @ github profile environment
+$ ./profile.sh --init
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ zudochan007@github:~$ ./profile.sh                                  │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  [✓] Initializing developer profile...                              │
-│  [✓] Loading skills................. OK                              │
-│  [✓] Loading projects............... OK                              │
-│  [✓] Loading creativity............. OK                              │
-│  [✓] Connecting to GitHub........... OK                              │
-│                                                                      │
-│  USER     : zudochan007                                              │
-│  ROLE     : Software Engineering Student                            │
-│  FOCUS    : Web / AI / Software                                     │
-│  STATUS   : ● ONLINE                                                 │
-│                                                                      │
-│  > Keep learning.                                                   │
-│  > Keep building.                                                   │
-│  > Keep creating.                                                   │
-│                                                                      │
-│  zudochan007@github:~$ _                                             │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+[✓] Initializing developer profile...
+[✓] Loading skills................. OK
+[✓] Loading projects............... OK
+[✓] Loading creativity............. OK
+[✓] Connecting to GitHub........... OK
+
+USER     : zudochan007
+ROLE     : Software Engineering Student
+FOCUS    : Web / AI / Software Architecture
+STATUS   : ONLINE
+
+> Keep learning.
+> Keep building.
+> Keep creating.
 ```
-
-</div>
 
 ---
 
@@ -254,42 +209,12 @@
 
 | Goal | Status |
 |:---|:---:|
-| 🚀 Improve Full-Stack Development | 🔄 |
-| ⚛️ Master React & Next.js | 🔄 |
-| 🤖 Build AI Applications | 🔄 |
-| 🧠 Learn Software Architecture | 🔄 |
-| ☁️ Improve Cloud & Deployment | 🔄 |
-| 💡 Build Open Source Projects | 🔄 |
-
-</div>
-
----
-
-# 📡 Developer Radar
-
-<div align="center">
-
-```text
-                         ┌───────────────────┐
-                         │    ZUDOCHAN007    │
-                         │       RADAR       │
-                         └─────────┬─────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-              ▼                    ▼                    ▼
-         ┌──────────┐        ┌──────────┐        ┌──────────┐
-         │   WEB    │        │    AI    │        │ BACKEND  │
-         │  █████   │        │  ████░   │        │  ████░   │
-         └──────────┘        └──────────┘        └──────────┘
-              │                    │                    │
-              └────────────────────┼────────────────────┘
-                                   │
-                                   ▼
-                           ┌───────────────┐
-                           │   BUILD 🚀    │
-                           └───────────────┘
-```
+| 🚀 Improve Full-Stack Development | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| ⚛️ Master React & Next.js | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| 🤖 Build AI Applications | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| 🧠 Learn Software Architecture | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| ☁️ Improve Cloud & Deployment | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
+| 💡 Build Open Source Projects | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-0E7490?style=flat-square) |
 
 </div>
 
@@ -303,21 +228,10 @@
 <img src="https://img.shields.io/badge/GitHub-ZUDOCHAN007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║       ⚡ BUILD  •  CREATE  •  LEARN  •  REPEAT ⚡          ║
-║                                                            ║
-║              Thanks for visiting my profile!               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+> ⚡ **BUILD • CREATE • LEARN • REPEAT** ⚡  
+> *Thanks for visiting my profile!*
 
 <br>
 
