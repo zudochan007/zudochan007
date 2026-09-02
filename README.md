@@ -27,24 +27,20 @@
 
 ---
 
-### ⚡ Developer Profile Interface
+<div align="center">
 
-```typescript
-// zudochan007.config.ts
-const developer = {
-  name: "Zudochan007",
-  role: "Software Engineering Student & Full-Stack Engineer",
-  location: "Vietnam",
-  languages: ["JavaScript", "TypeScript", "HTML5", "CSS3", "C#", "C++", "Java", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", "Express", ".NET Core", "REST APIs"],
-    database: ["PostgreSQL", "MySQL", "SQLite"],
-    ai: ["Google Gemini API", "AI Agents", "LLM Integration"]
-  },
-  status: "Building modern web apps & exploring AI integration"
-};
-```
+### ⚡ Developer Profile Matrix
+
+| Domain | Technical Stack & Capabilities |
+| :--- | :--- |
+| **🌐 Web Core** | `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` |
+| **🎨 UI & Styling** | `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
+| **⚙️ Backend** | `Node.js` `Express` `.NET Core` `C#` `RESTful APIs` |
+| **🗄️ Database** | `PostgreSQL` `MySQL` `SQLite` |
+| **🤖 AI & Integrations** | `Google Gemini API` `AI Agents` `LLM Integration` |
+| **🔧 Tools & DevOps** | `Git` `GitHub` `Docker` `VS Code` `Vercel` `Linux` |
+
+</div>
 
 ---
 
