@@ -30,19 +30,19 @@
 ### ⚡ Developer Profile Interface
 
 ```typescript
-// 🌐 zudochan007.config.ts
+// zudochan007.config.ts
 const developer = {
   name: "Zudochan007",
   role: "Software Engineering Student & Full-Stack Engineer",
-  location: "Vietnam 📍",
+  location: "Vietnam",
   languages: ["JavaScript", "TypeScript", "HTML5", "CSS3", "C#", "C++", "Java", "SQL"],
   technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML5/CSS3", "Vite"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vite"],
     backend: ["Node.js", "Express", ".NET Core", "REST APIs"],
     database: ["PostgreSQL", "MySQL", "SQLite"],
     ai: ["Google Gemini API", "AI Agents", "LLM Integration"]
   },
-  status: "Building modern web apps & exploring AI integration 🚀"
+  status: "Building modern web apps & exploring AI integration"
 };
 ```
 
