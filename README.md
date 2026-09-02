@@ -1,537 +1,44 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="100%"
-     viewBox="0 0 1200 360"
-     role="img"
-     aria-label="ZUDOCHAN007 GitHub Profile">
+<!-- ========================================================= -->
+<!--                    ZUDOCHAN007 PROFILE                    -->
+<!-- ========================================================= -->
 
-  <defs>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:06141f,45:0b2533,100:123b4a&text=ZUDOCHAN007&fontSize=58&fontColor=5eead4&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn"/>
 
-    <!-- Background -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#06141f"/>
-      <stop offset="50%" stop-color="#0b2533"/>
-      <stop offset="100%" stop-color="#06141f"/>
-    </linearGradient>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=780&lines=%3E+Welcome+to+my+GitHub+profile...;%3E+Software+Engineering+Student;%3E+Building+modern+Web+%26+AI+applications;%3E+Always+learning.+Always+building.+%F0%9F%9A%80"/>
 
-    <!-- Main neon -->
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#2dd4bf"/>
-      <stop offset="100%" stop-color="#60a5fa"/>
-    </linearGradient>
+<br><br>
 
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Grid -->
-    <pattern id="grid"
-             width="30"
-             height="30"
-             patternUnits="userSpaceOnUse">
-
-      <path d="M30 0H0V30"
-            fill="none"
-            stroke="#2dd4bf"
-            stroke-opacity="0.12"/>
-
-    </pattern>
-
-    <!-- Scan -->
-    <linearGradient id="scan"
-                    x1="0"
-                    y1="0"
-                    x2="0"
-                    y2="1">
-
-      <stop offset="0%"
-            stop-color="#22d3ee"
-            stop-opacity="0"/>
-
-      <stop offset="50%"
-            stop-color="#22d3ee"
-            stop-opacity="0.45"/>
-
-      <stop offset="100%"
-            stop-color="#22d3ee"
-            stop-opacity="0"/>
-
-    </linearGradient>
-
-    <!-- Clip -->
-    <clipPath id="screen">
-      <rect x="1"
-            y="1"
-            width="1198"
-            height="358"
-            rx="22"/>
-    </clipPath>
-
-  </defs>
-
-
-  <!-- ================= BACKGROUND ================= -->
-
-  <rect x="1"
-        y="1"
-        width="1198"
-        height="358"
-        rx="22"
-        fill="url(#bg)"
-        stroke="#2dd4bf"
-        stroke-opacity="0.55"/>
-
-  <rect x="1"
-        y="1"
-        width="1198"
-        height="358"
-        rx="22"
-        fill="url(#grid)"
-        clip-path="url(#screen)"/>
-
-
-  <!-- ================= TERMINAL BAR ================= -->
-
-  <rect x="1"
-        y="1"
-        width="1198"
-        height="42"
-        rx="22"
-        fill="#071018"/>
-
-  <line x1="1"
-        y1="42"
-        x2="1199"
-        y2="42"
-        stroke="#2dd4bf"
-        stroke-opacity="0.25"/>
-
-
-  <!-- Terminal dots -->
-
-  <circle cx="24"
-          cy="22"
-          r="6"
-          fill="#ff5f56"/>
-
-  <circle cx="45"
-          cy="22"
-          r="6"
-          fill="#ffbd2e"/>
-
-  <circle cx="66"
-          cy="22"
-          r="6"
-          fill="#27c93f"/>
-
-
-  <!-- Terminal text -->
-
-  <text x="600"
-        y="27"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="13"
-        fill="#7dd3fc">
-
-    zudochan007@github:~$ ./profile.sh
-
-  </text>
-
-
-  <!-- ================= GLOW ORBS ================= -->
-
-  <circle cx="110"
-          cy="120"
-          r="100"
-          fill="#22d3ee"
-          opacity="0.08">
-
-    <animate
-      attributeName="r"
-      values="80;120;80"
-      dur="5s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-
-  <circle cx="1090"
-          cy="270"
-          r="130"
-          fill="#2dd4bf"
-          opacity="0.07">
-
-    <animate
-      attributeName="r"
-      values="110;150;110"
-      dur="6s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-
-  <!-- ================= LEFT SIDE ================= -->
-
-  <text x="75"
-        y="92"
-        font-family="monospace"
-        font-size="13"
-        font-weight="bold"
-        letter-spacing="3"
-        fill="#5eead4">
-
-    SYSTEM ONLINE
-
-  </text>
-
-
-  <!-- Name -->
-
-  <text x="75"
-        y="145"
-        font-family="monospace"
-        font-size="48"
-        font-weight="bold"
-        fill="url(#neon)"
-        filter="url(#glow)">
-
-    ZUDOCHAN007
-
-  </text>
-
-
-  <!-- Typing effect -->
-
-  <text x="78"
-        y="177"
-        font-family="monospace"
-        font-size="16"
-        fill="#ccfbf1">
-
-    &gt; Software Engineering Student_
-
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="1.2s"
-      repeatCount="indefinite"/>
-
-  </text>
-
-
-  <!-- Description -->
-
-  <text x="78"
-        y="208"
-        font-family="monospace"
-        font-size="13"
-        fill="#94a3b8">
-
-    Building modern Web • AI • Software
-
-  </text>
-
-
-  <!-- ================= SKILLS ================= -->
-
-  <g transform="translate(78 235)">
-
-    <rect width="100"
-          height="30"
-          rx="15"
-          fill="#0f2b35"
-          stroke="#2dd4bf"
-          stroke-opacity="0.7"/>
-
-    <text x="50"
-          y="20"
-          text-anchor="middle"
-          font-family="monospace"
-          font-size="12"
-          fill="#ccfbf1">
-
-      JavaScript
-
-    </text>
-
-  </g>
-
-
-  <g transform="translate(188 235)">
-
-    <rect width="80"
-          height="30"
-          rx="15"
-          fill="#0f2b35"
-          stroke="#2dd4bf"
-          stroke-opacity="0.7"/>
-
-    <text x="40"
-          y="20"
-          text-anchor="middle"
-          font-family="monospace"
-          font-size="12"
-          fill="#ccfbf1">
-
-      React
-
-    </text>
-
-  </g>
-
-
-  <g transform="translate(278 235)">
-
-    <rect width="85"
-          height="30"
-          rx="15"
-          fill="#0f2b35"
-          stroke="#2dd4bf"
-          stroke-opacity="0.7"/>
-
-    <text x="42"
-          y="20"
-          text-anchor="middle"
-          font-family="monospace"
-          font-size="12"
-          fill="#ccfbf1">
-
-      .NET
-
-    </text>
-
-  </g>
-
-
-  <g transform="translate(373 235)">
-
-    <rect width="65"
-          height="30"
-          rx="15"
-          fill="#0f2b35"
-          stroke="#2dd4bf"
-          stroke-opacity="0.7"/>
-
-    <text x="32"
-          y="20"
-          text-anchor="middle"
-          font-family="monospace"
-          font-size="12"
-          fill="#ccfbf1">
-
-      AI
-
-    </text>
-
-  </g>
-
-
-  <!-- ================= RIGHT PANEL ================= -->
-
-  <rect x="710"
-        y="80"
-        width="410"
-        height="215"
-        rx="18"
-        fill="#06151d"
-        fill-opacity="0.78"
-        stroke="#2dd4bf"
-        stroke-opacity="0.35"/>
-
-
-  <text x="740"
-        y="112"
-        font-family="monospace"
-        font-size="12"
-        font-weight="bold"
-        letter-spacing="2"
-        fill="#5eead4">
-
-    PROFILE_SCAN
-
-  </text>
-
-
-  <!-- INFO 1 -->
-
-  <text x="740"
-        y="145"
-        font-family="monospace"
-        font-size="13"
-        font-weight="bold"
-        fill="#2dd4bf">
-
-    USER
-
-  </text>
-
-  <line x1="805"
-        y1="141"
-        x2="1030"
-        y2="141"
-        stroke="#5eead4"
-        stroke-opacity="0.25"
-        stroke-dasharray="3 5"/>
-
-  <text x="1045"
-        y="145"
-        font-family="monospace"
-        font-size="13"
-        fill="#ccfbf1">
-
-    @zudochan007
-
-  </text>
-
-
-  <!-- INFO 2 -->
-
-  <text x="740"
-        y="180"
-        font-family="monospace"
-        font-size="13"
-        font-weight="bold"
-        fill="#2dd4bf">
-
-    ROLE
-
-  </text>
-
-  <line x1="805"
-        y1="176"
-        x2="1030"
-        y2="176"
-        stroke="#5eead4"
-        stroke-opacity="0.25"
-        stroke-dasharray="3 5"/>
-
-  <text x="1045"
-        y="180"
-        font-family="monospace"
-        font-size="13"
-        fill="#ccfbf1">
-
-    Developer
-
-  </text>
-
-
-  <!-- INFO 3 -->
-
-  <text x="740"
-        y="215"
-        font-family="monospace"
-        font-size="13"
-        font-weight="bold"
-        fill="#2dd4bf">
-
-    FOCUS
-
-  </text>
-
-  <line x1="805"
-        y1="211"
-        x2="1030"
-        y2="211"
-        stroke="#5eead4"
-        stroke-opacity="0.25"
-        stroke-dasharray="3 5"/>
-
-  <text x="1045"
-        y="215"
-        font-family="monospace"
-        font-size="13"
-        fill="#ccfbf1">
-
-    Web / AI
-
-  </text>
-
-
-  <!-- INFO 4 -->
-
-  <text x="740"
-        y="250"
-        font-family="monospace"
-        font-size="13"
-        font-weight="bold"
-        fill="#2dd4bf">
-
-    STATUS
-
-  </text>
-
-  <line x1="805"
-        y1="246"
-        x2="1030"
-        y2="246"
-        stroke="#5eead4"
-        stroke-opacity="0.25"
-        stroke-dasharray="3 5"/>
-
-  <text x="1045"
-        y="250"
-        font-family="monospace"
-        font-size="13"
-        fill="#4ade80">
-
-    ONLINE
-
-  </text>
-
-
-  <!-- ================= SCAN LINE ================= -->
-
-  <rect x="20"
-        y="45"
-        width="1160"
-        height="65"
-        fill="url(#scan)"
-        opacity="0.35">
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 -100"
-      to="0 420"
-      dur="4.5s"
-      repeatCount="indefinite"/>
-
-  </rect>
-
-
-  <!-- ================= FOOTER ================= -->
-
-  <text x="1130"
-        y="335"
-        text-anchor="end"
-        font-family="monospace"
-        font-size="10"
-        fill="#5eead4"
-        opacity="0.55">
-
-    ZUDOCHAN007 // GITHUB
-
-  </text>
-
-</svg>
+<img src="https://komarev.com/ghpvc/?username=zudochan007&label=PROFILE%20VIEWS&color=0e7490&style=for-the-badge"/>
 
 </div>
 
-
-<br>
+---
 
 <div align="center">
 
-### ⚡ BUILD • CREATE • LEARN • REPEAT ⚡
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    ZUDOCHAN007 // SYSTEM ONLINE                            ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   ███████╗██╗   ██╗██████╗  ██████╗ ██████╗██╗  ██╗ █████╗ ███╗   ██╗     ║
+║   ╚══███╔╝██║   ██║██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║     ║
+║     ███╔╝ ██║   ██║██║  ██║██║   ██║██║     ███████║███████║██╔██╗ ██║     ║
+║    ███╔╝  ██║   ██║██║  ██║██║   ██║██║     ██╔══██║██╔══██║██║╚██╗██║     ║
+║   ███████╗╚██████╔╝██████╔╝╚██████╔╝╚██████╗██║  ██║██║  ██║██║ ╚████║     ║
+║   ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝     ║
+║                                                                              ║
+║   > USER       : @zudochan007                                                ║
+║   > ROLE       : SOFTWARE DEVELOPER                                         ║
+║   > FOCUS      : WEB / AI / FULL-STACK                                      ║
+║   > LOCATION   : VIETNAM 🇻🇳                                                ║
+║   > STATUS     : ● ONLINE                                                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -539,19 +46,291 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Developer Profile
+
 ```text
-┌─────────────────────────────────────────────┐
-│              ZUDOCHAN007                    │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Software Engineering Student               │
-│                                             │
-│  🌐 Web Development                         │
-│  🤖 Artificial Intelligence                  │
-│  ⚛️ React / JavaScript                      │
-│  ⚙️ .NET / Backend                          │
-│  🗄️ Database                                │
-│                                             │
-│  Always learning something new... 🚀        │
-│                                             │
-└─────────────────────────────────────────────┘
+┌───────────────────────────────┐
+│       ZUDOCHAN007             │
+├───────────────────────────────┤
+│                               │
+│  Software Engineering Student │
+│                               │
+│  🌐 Web Development           │
+│  🤖 Artificial Intelligence   │
+│  ⚛️ React / JavaScript        │
+│  ⚙️ .NET / Backend            │
+│  🗄️ Database                  │
+│                               │
+└───────────────────────────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Current Mission
+
+```text
+┌───────────────────────────────┐
+│       SYSTEM PROGRESS         │
+├───────────────────────────────┤
+│                               │
+│  Learn       █████████░  90%  │
+│  Build       ████████░░  80%  │
+│  AI          ███████░░░  70%  │
+│  Full-Stack  ███████░░░  70%  │
+│                               │
+│  STATUS: ONLINE               │
+│                               │
+└───────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,js,ts,html,css,sql&theme=dark"/>
+
+<br><br>
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark"/>
+
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,mysql,postgres,sqlite&theme=dark"/>
+
+<br><br>
+
+### 🔧 Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,vercel&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 What I'm Working On
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Development
+
+```text
+┌─────────────────────────────┐
+│        AI PROJECTS          │
+├─────────────────────────────┤
+│                             │
+│  🤖 AI Mock Interview       │
+│  💬 AI Chatbot              │
+│  🧠 AI Analysis             │
+│  ✨ Gemini Integration      │
+│  🔗 AI APIs                 │
+│                             │
+└─────────────────────────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Web Development
+
+```text
+┌─────────────────────────────┐
+│        WEB PROJECTS         │
+├─────────────────────────────┤
+│                             │
+│  ⚛️ React                   │
+│  ▲ Next.js                  │
+│  🎨 Tailwind CSS            │
+│  ⚙️ REST API                │
+│  📱 Responsive UI           │
+│                             │
+└─────────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=zudochan007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=5EEAD4&icon_color=22D3EE&text_color=C9D1D9"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zudochan007&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=zudochan007&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=22D3EE&currStreakLabel=5EEAD4"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=zudochan007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=zudochan007&bg_color=0D1117&color=5EEAD4&line=22D3EE&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Terminal
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ zudochan007@github:~$ ./profile.sh                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  [✓] Initializing developer profile...                              │
+│  [✓] Loading skills................. OK                              │
+│  [✓] Loading projects............... OK                              │
+│  [✓] Loading creativity............. OK                              │
+│  [✓] Connecting to GitHub........... OK                              │
+│                                                                      │
+│  USER     : zudochan007                                              │
+│  ROLE     : Software Engineering Student                            │
+│  FOCUS    : Web / AI / Software                                     │
+│  STATUS   : ● ONLINE                                                 │
+│                                                                      │
+│  > Keep learning.                                                   │
+│  > Keep building.                                                   │
+│  > Keep creating.                                                   │
+│                                                                      │
+│  zudochan007@github:~$ _                                             │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:---|:---:|
+| 🚀 Improve Full-Stack Development | 🔄 |
+| ⚛️ Master React & Next.js | 🔄 |
+| 🤖 Build AI Applications | 🔄 |
+| 🧠 Learn Software Architecture | 🔄 |
+| ☁️ Improve Cloud & Deployment | 🔄 |
+| 💡 Build Open Source Projects | 🔄 |
+
+</div>
+
+---
+
+# 📡 Developer Radar
+
+<div align="center">
+
+```text
+                         ┌───────────────────┐
+                         │    ZUDOCHAN007    │
+                         │       RADAR       │
+                         └─────────┬─────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+              ▼                    ▼                    ▼
+         ┌──────────┐        ┌──────────┐        ┌──────────┐
+         │   WEB    │        │    AI    │        │ BACKEND  │
+         │  █████   │        │  ████░   │        │  ████░   │
+         └──────────┘        └──────────┘        └──────────┘
+              │                    │                    │
+              └────────────────────┼────────────────────┘
+                                   │
+                                   ▼
+                           ┌───────────────┐
+                           │   BUILD 🚀    │
+                           └───────────────┘
+```
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/zudochan007">
+<img src="https://img.shields.io/badge/GitHub-ZUDOCHAN007-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║       ⚡ BUILD  •  CREATE  •  LEARN  •  REPEAT ⚡          ║
+║                                                            ║
+║              Thanks for visiting my profile!               ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06141f,50:0b2533,100:22d3ee"/>
+
+</div>
