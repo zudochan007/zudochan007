@@ -27,8 +27,6 @@
 
 ---
 
-<div align="center">
-
 ### ⚡ Developer Profile Interface
 
 ```typescript
@@ -36,19 +34,17 @@
 const developer = {
   name: "Zudochan007",
   role: "Software Engineering Student & Full-Stack Engineer",
-  location: "Vietnam 🇻🇳",
+  location: "Vietnam 📍",
   languages: ["JavaScript", "TypeScript", "C#", "C++", "Java", "SQL"],
   technologies: {
-    frontend : ["React.js", "Next.js", "Tailwind CSS", "Vite"],
-    backend  : ["Node.js", "Express", ".NET Core", "REST APIs"],
-    database : ["PostgreSQL", "MySQL", "SQLite"],
-    ai       : ["Google Gemini API", "AI Agents", "LLM Integration"]
+    frontend: ["React.js", "Next.js", "Tailwind CSS", "Vite"],
+    backend: ["Node.js", "Express", ".NET Core", "REST APIs"],
+    database: ["PostgreSQL", "MySQL", "SQLite"],
+    ai: ["Google Gemini API", "AI Agents", "LLM Integration"]
   },
   status: "Building modern web apps & exploring AI integration 🚀"
 };
 ```
-
-</div>
 
 ---
 
