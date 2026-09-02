@@ -9,27 +9,14 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+%26+AI+Developer;Building+the+Future+with+Code;Keep+learning.+Keep+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=620&lines=Software+Engineering+Student;Front-End+%26+Full-Stack+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Building+AI-Powered+Web+Applications;Transforming+Ideas+into+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Web Development"/>
-<img src="https://img.shields.io/badge/AI%20DEVELOPMENT-0D1117?style=for-the-badge&logo=google-gemini&logoColor=8AB4F8" alt="AI Development"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=zudochan007&label=PROFILE%20VIEWS&color=0e7490&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E676?style=for-the-badge&logo=github&logoColor=black" alt="System Online"/>
-<img src="https://img.shields.io/badge/LOCATION-VIETNAM%20%F0%9F%87%B6%F0%9F%87%B3-0D1117?style=for-the-badge&logoColor=white" alt="Vietnam"/>
+<img src="https://img.shields.io/badge/LOCATION-VIETNAM-0D1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Location Vietnam"/>
 <img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20AI%20%7C%20FULLSTACK-0D1117?style=for-the-badge&logo=codeforces&logoColor=5EEAD4" alt="Focus"/>
 
 <br><br>
@@ -40,7 +27,32 @@
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+### ⚡ Developer Profile Interface
+
+```typescript
+// 🌐 zudochan007.config.ts
+const developer = {
+  name: "Zudochan007",
+  role: "Software Engineering Student & Full-Stack Engineer",
+  location: "Vietnam 🇻🇳",
+  languages: ["JavaScript", "TypeScript", "C#", "C++", "Java", "SQL"],
+  technologies: {
+    frontend : ["React.js", "Next.js", "Tailwind CSS", "Vite"],
+    backend  : ["Node.js", "Express", ".NET Core", "REST APIs"],
+    database : ["PostgreSQL", "MySQL", "SQLite"],
+    ai       : ["Google Gemini API", "AI Agents", "LLM Integration"]
+  },
+  status: "Building modern web apps & exploring AI integration 🚀"
+};
+```
+
+</div>
+
+---
+
+## 👨‍💻 About Me & System Status
 
 <table>
 <tr>
@@ -50,8 +62,8 @@
 
 - 🎓 **Role:** Software Engineering Student
 - 🌐 **Specialization:** Web & AI Development
-- ⚛️ **Frontend:** React / JavaScript / Next.js
-- ⚙️ **Backend:** Node.js / .NET / REST API
+- ⚛️ **Frontend:** React / TypeScript / Next.js
+- ⚙️ **Backend:** Node.js / .NET Core / REST API
 - 🗄️ **Database:** SQL / PostgreSQL / MySQL
 - 📍 **Location:** Vietnam 🇻🇳
 
@@ -59,12 +71,12 @@
 
 <td width="50%" valign="top">
 
-### ⚡ Current Mission
+### ⚡ Current Progress
 
 - 📖 **Learning & Growth:** `█████████░` **90%**
-- 🛠️ **Software Building:** `████████░░` **80%**
+- 🛠️ **Full-Stack Building:** `████████░░` **80%**
 - 🤖 **AI Engineering:** `███████░░░` **70%**
-- 🚀 **Full-Stack Projects:** `███████░░░` **70%**
+- 🧠 **Software Architecture:** `███████░░░` **70%**
 
 > 🟢 **STATUS:** `ONLINE & ACTIVE`
 
