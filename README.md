@@ -82,9 +82,8 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Languages%3A+Java+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+JS+%E2%80%A2+TS+%E2%80%A2+SQL;Frontend%3A+React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+Vite;Backend%3A+Node.js+%E2%80%A2+Express+%E2%80%A2+.NET+%E2%80%A2+PostgreSQL;AI+%26+Tools%3A+Gemini+API+%E2%80%A2+Git+%E2%80%A2+Docker+%E2%80%A2+Linux" alt="Tech Stack Motion" />
-</a>
+<!-- Dynamic Infinite Scrolling Tech Icons Marquee -->
+<img width="100%" src="https://raw.githubusercontent.com/zudochan007/zudochan007/main/tech_stack_marquee.svg" alt="Animated Tech Stack Marquee" />
 
 <br><br>
 
