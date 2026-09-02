@@ -35,9 +35,9 @@ const developer = {
   name: "Zudochan007",
   role: "Software Engineering Student & Full-Stack Engineer",
   location: "Vietnam 📍",
-  languages: ["JavaScript", "TypeScript", "C#", "C++", "Java", "SQL"],
+  languages: ["JavaScript", "TypeScript", "HTML5", "CSS3", "C#", "C++", "Java", "SQL"],
   technologies: {
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "Vite"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML5/CSS3", "Vite"],
     backend: ["Node.js", "Express", ".NET Core", "REST APIs"],
     database: ["PostgreSQL", "MySQL", "SQLite"],
     ai: ["Google Gemini API", "AI Agents", "LLM Integration"]
